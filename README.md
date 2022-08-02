@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Foodout**
 
-- 🌱 I’m currently learning **CS50**
+- 🌱 I’m currently learning **Core JAVA**
 
 - 💬 Ask me about **C,C++,DBMS**
 
